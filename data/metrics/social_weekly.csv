@@ -1,0 +1,2 @@
+# One row per week per platform. Leave unknown cells empty. week_start = Monday (YYYY-MM-DD). Source: native insights exports.
+week_start,platform,posts,views,avg_watch_pct,saves,shares,comments,follows,profile_visits,link_clicks

@@ -1,0 +1,27 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|Write|Edit|MultiEdit|NotebookEdit|Read|Grep|Glob",
+        "hooks": [
+          { "type": "command", "command": "node \"$CLAUDE_PROJECT_DIR/scripts/guard.mjs\"" }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "deny": [
+      "Bash(git push:*)",
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(~/.meyra/**)",
+      "Edit(~/.meyra/**)",
+      "Edit(./.claude/settings.json)",
+      "Edit(./scripts/owner/**)",
+      "Edit(./scripts/guard-staged/**)",
+      "Edit(./approvals/approved/**)",
+      "Edit(./approvals/rejected/**)",
+      "Edit(./config/approver_ed25519.pub.pem)"
+    ]
+  }
+}

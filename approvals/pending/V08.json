@@ -1,0 +1,60 @@
+{
+  "id": "V08",
+  "title": "Kaza namazlarımı defterde değil, böyle takip ediyorum",
+  "pillar": "P3",
+  "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "publish_target": "2026-11-25",
+  "packaged_at": "2026-11-14T20:44:10.350Z",
+  "md": "content/videos/V08-kaza-takibi.md",
+  "content_hash": "d6c5c80995a55499",
+  "meta_hash": "b6bd16e3a2c5aa1e",
+  "captions": {
+    "instagram": "Kaza namazı takibi defterde kaybolmasın 📓\n\n✔️ Kaza sayını bir kere gir\n✔️ Kıldıkça işaretle\n✔️ Namaz, kaza ve oruç takibi tek yerde\n\nKaza sayının nasıl hesaplanacağını hocana veya Diyanet'e danış; takibi Meyra'ya bırak. Ücretsiz indir, link profilde.\n#kazanamazı #namaz #ibadettakibi #meyra",
+    "tiktok": "Kaza namazlarını hâlâ defterde mi sayıyorsun? 📓 Meyra, link profilde #kazanamazı #namaz #meyra",
+    "youtube": "Başlık: Kaza namazı takibi nasıl yapılır? Defter yerine uygulama #shorts\nAçıklama: Meyra ile namaz, kaza ve oruç takibi. Hesaplama için Diyanet'e/hocana danış. Ücretsiz indir: {{LINK:youtube_V08}}"
+  },
+  "video": {
+    "file": "media/rendered/V08.mp4",
+    "kind": "animatic",
+    "missing_assets": [
+      {
+        "segment": 1,
+        "need": "broll_or_footage",
+        "description": "Çentiklerle dolu defter, sayfa çevriliyor"
+      },
+      {
+        "segment": 2,
+        "need": "screen_recording",
+        "description": "Ekran kaydı: kaza takibi ekranı. Yazı: \"1. Bir kere gir\""
+      },
+      {
+        "segment": 3,
+        "need": "screen_recording",
+        "description": "Ekran kaydı: işaretleme → sayaç düşüyor. Yazı: \"2. Kıldıkça işaretle\""
+      },
+      {
+        "segment": 4,
+        "need": "screen_recording",
+        "description": "İlerleme ekranı. Yazı: \"Namaz · kaza · oruç\""
+      }
+    ],
+    "duration_s": 29.4,
+    "voice": "tts-draft",
+    "manifest_sha256": "4cb4bef17a6924ffe9c4793cf587d93fefa10a30fee218f61ff525ce5edda4a8",
+    "sha256": "4cb4bef17a6924ffe9c4793cf587d93fefa10a30fee218f61ff525ce5edda4a8",
+    "rendered_from_hash": "d6c5c80995a55499"
+  },
+  "video_sha256": "4cb4bef17a6924ffe9c4793cf587d93fefa10a30fee218f61ff525ce5edda4a8",
+  "qc": {
+    "status": "blocked",
+    "reasons": [
+      "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+    ],
+    "warnings": [],
+    "verdict": "MISSING"
+  }
+}

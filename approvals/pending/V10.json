@@ -1,0 +1,60 @@
+{
+  "id": "V10",
+  "title": "Meyra Asistan'a sordum, tesbihat nasıl yapılır?",
+  "pillar": "P3",
+  "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "publish_target": "2026-11-27",
+  "packaged_at": "2026-11-14T20:44:10.354Z",
+  "md": "content/videos/V10-meyra-asistana-sordum.md",
+  "content_hash": "4810c00005400a2c",
+  "meta_hash": "5e1f2b5acea13128",
+  "captions": {
+    "instagram": "Meyra Asistan'a \"tesbihat nasıl yapılır?\" diye sordum 🤖\n\nDini ve günlük sorularına hızlı, anlaşılır yanıtlar. Önemli konularda mutlaka hocana veya Diyanet'e danış; asistan fetva yerine geçmez.\n\nSen ne sormak isterdin? Yorumlara yaz, bir sonraki videoda soralım 👇\nÜcretsiz indir, link profilde.\n#yapayzeka #tesbihat #dua #meyra",
+    "tiktok": "Dini bir soruyu yapay zekâya sordum 🤖 Sence doğru mu? Yorumlara yaz 👇 #yapayzeka #tesbihat #meyra",
+    "youtube": "Başlık: Yapay zekâya tesbihatı sordum, Meyra Asistan 🤖 #shorts\nAçıklama: Meyra Asistan dini ve günlük sorulara hızlı yanıtlar verir; fetva yerine geçmez, önemli konularda Diyanet'e danışın. Ücretsiz indir: {{LINK:youtube_V10}}"
+  },
+  "video": {
+    "file": "media/rendered/V10.mp4",
+    "kind": "animatic",
+    "missing_assets": [
+      {
+        "segment": 1,
+        "need": "broll_or_footage",
+        "description": "Telefonu eline alan el"
+      },
+      {
+        "segment": 2,
+        "need": "screen_recording",
+        "description": "Ekran kaydı: soru yazılıyor"
+      },
+      {
+        "segment": 3,
+        "need": "screen_recording",
+        "description": "Ekran kaydı: asistanın gerçek yanıtı, düzenlenmeden; önemli satırlar vurgulanır"
+      },
+      {
+        "segment": 4,
+        "need": "broll_or_footage",
+        "description": "Yazı: \"Fetva yerine geçmez. Hocana/Diyanet'e danış 🤍\""
+      }
+    ],
+    "duration_s": 34.17,
+    "voice": "tts-draft",
+    "manifest_sha256": "56d269c83a18b769e5e81e68cab754b8e44f804b82a1c175bd721d3c03e1f37c",
+    "sha256": "56d269c83a18b769e5e81e68cab754b8e44f804b82a1c175bd721d3c03e1f37c",
+    "rendered_from_hash": "4810c00005400a2c"
+  },
+  "video_sha256": "56d269c83a18b769e5e81e68cab754b8e44f804b82a1c175bd721d3c03e1f37c",
+  "qc": {
+    "status": "blocked",
+    "reasons": [
+      "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+    ],
+    "warnings": [],
+    "verdict": "MISSING"
+  }
+}

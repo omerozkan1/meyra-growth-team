@@ -1,0 +1,72 @@
+{
+  "id": "V12",
+  "title": "Hatim takibi demo",
+  "pillar": "P3",
+  "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "publish_target": "2026-12-01",
+  "packaged_at": "2026-11-14T20:44:10.356Z",
+  "md": "content/videos/V12-hatim-takibi.md",
+  "content_hash": "d15957c22a80bad9",
+  "meta_hash": "6646f618aa825184",
+  "captions": {
+    "instagram": "Hatim bitirmeyi hep erteliyor musun?\n\nMeyra'da hatim başlatmak iki dokunuş.\nKaldığın yer kaydoluyor, her gün ilerlemeyi görüyorsun.\nHatim başlat, ilerlemeni takip et.\n\nÜcretsiz indir, link profilde. {{LINK:store_V12}}\n\nKaydetmeyi unutma — sonra lazım olur.\n\n#hatim #kuran #meyraapp #meyra #dua",
+    "tiktok": "Hatim başlatmak iki dokunuş — Meyra'da ilerlemen hep kaydediliyor.\n\n#hatim #kuran #meyraapp",
+    "youtube": "Başlık: Hatim Takibi Meyra'da Çok Kolay #shorts\nAçıklama: Hatim başlat, ilerlemeni takip et — Meyra ile Kur'an okuma rutinin hep yanında. Ücretsiz indir: {{LINK:store_V12}}"
+  },
+  "video": {
+    "file": "media/rendered/V12.mp4",
+    "kind": "animatic",
+    "missing_assets": [
+      {
+        "segment": 1,
+        "need": "broll_or_footage",
+        "description": "Ekran yazısı: \"Hatim bitirmeyi hep erteliyor musun?\" — siyah/lacivert arka plan, beyaz metin"
+      },
+      {
+        "segment": 2,
+        "need": "broll_or_footage",
+        "description": "Ekranda Meyra uygulaması açılıyor; Kur'an bölümüne geçiş gösteriliyor"
+      },
+      {
+        "segment": 3,
+        "need": "screen_recording",
+        "description": "Ekranda \"Hatim başlat\" butonu vurgulanıyor; ilerleme ekranı beliriyor"
+      },
+      {
+        "segment": 4,
+        "need": "broll_or_footage",
+        "description": "Ekranda hatim ilerleme çubuğu ve tamamlanan cüz sayısı görünüyor"
+      },
+      {
+        "segment": 5,
+        "need": "screen_recording",
+        "description": "Ekran yazısı: \"Hatim başlat, ilerlemeni takip et.\" — uygulamanın hatim özet ekranı arka planda"
+      },
+      {
+        "segment": 6,
+        "need": "broll_or_footage",
+        "description": "Meyra uygulama ikonu + \"Ücretsiz indir\" yazısı; store badge"
+      }
+    ],
+    "duration_s": 30.7,
+    "voice": "tts-draft",
+    "manifest_sha256": "ce7d106ea259b147ca3e31d9066e67d3d71c152105083622e4463e2298118cf5",
+    "sha256": "ce7d106ea259b147ca3e31d9066e67d3d71c152105083622e4463e2298118cf5",
+    "rendered_from_hash": "d15957c22a80bad9"
+  },
+  "video_sha256": "ce7d106ea259b147ca3e31d9066e67d3d71c152105083622e4463e2298118cf5",
+  "qc": {
+    "status": "blocked",
+    "reasons": [
+      "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+    ],
+    "warnings": [
+      "untracked link: https://play.google.com/intl/en_us/badges/ (use npm run links)"
+    ],
+    "verdict": "MISSING"
+  }
+}

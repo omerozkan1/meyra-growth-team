@@ -1,0 +1,60 @@
+{
+  "id": "V07",
+  "title": "Kışın vakitler kısalıyor, namazı kaçırmamak için 3 ayar",
+  "pillar": "P2",
+  "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "publish_target": "2026-11-24",
+  "packaged_at": "2026-11-14T20:44:10.347Z",
+  "md": "content/videos/V07-kis-vakitleri.md",
+  "content_hash": "bfa1a67fe85adf9c",
+  "meta_hash": "923ec9e8c3265663",
+  "captions": {
+    "instagram": "Kışın vakitler kısa, kaçırması kolay 🌆\n1️⃣ Her vakit için bildirimi aç\n2️⃣ Ana ekrana widget ekle (iOS)\n3️⃣ Apple Watch'ta vakitleri gör (iOS)\n\nMeyra ile vakitler hep göz önünde. Link profilde.\nKaydet, akşam ayarla 📌\n#namazvakitleri #namaz #kış #meyra",
+    "tiktok": "Kışın namazı kaçırmamak için 3 ayar 🌆 #namazvakitleri #namaz #meyra",
+    "youtube": "Başlık: Kışın namazı kaçırmamak için 3 telefon ayarı #shorts\nAçıklama: Vakit bildirimleri, widget ve Apple Watch (iOS). Meyra: {{LINK:youtube_V07}}"
+  },
+  "video": {
+    "file": "media/rendered/V07.mp4",
+    "kind": "animatic",
+    "missing_assets": [
+      {
+        "segment": 1,
+        "need": "broll_or_footage",
+        "description": "Erken kararan şehir, ofis penceresi"
+      },
+      {
+        "segment": 2,
+        "need": "screen_recording",
+        "description": "Yazı: \"1. Vakit bildirimleri\" + bildirim ayarları ekranı"
+      },
+      {
+        "segment": 3,
+        "need": "broll_or_footage",
+        "description": "Yazı: \"2. Widget\" + iOS ana ekran widget'ı (iOS'ta)"
+      },
+      {
+        "segment": 4,
+        "need": "broll_or_footage",
+        "description": "Yazı: \"3. Apple Watch (iOS)\" + saat görüntüsü"
+      }
+    ],
+    "duration_s": 31.83,
+    "voice": "tts-draft",
+    "manifest_sha256": "0896a7d475db95ad5b4afec4747783842568446902633db5c01413261093c9a1",
+    "sha256": "0896a7d475db95ad5b4afec4747783842568446902633db5c01413261093c9a1",
+    "rendered_from_hash": "bfa1a67fe85adf9c"
+  },
+  "video_sha256": "0896a7d475db95ad5b4afec4747783842568446902633db5c01413261093c9a1",
+  "qc": {
+    "status": "blocked",
+    "reasons": [
+      "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+    ],
+    "warnings": [],
+    "verdict": "MISSING"
+  }
+}

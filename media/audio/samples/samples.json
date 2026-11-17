@@ -1,0 +1,42 @@
+{
+  "text": "Namaz vakitlerini ve ezan bildirimini otuz saniyede kuralım. Meyra'yı aç, konum iznini ver. Bulunduğun yere göre bugünün vakitleri hazır. Bildirim ayarlarından ezan bildirimini istediğin vakitler için aç. Bu kadar. Meyra ücretsiz, link profilde.",
+  "generated_at": "2026-11-14 23:17",
+  "samples": [
+    {
+      "file": "media/audio/samples/macos-yelda-baseline.mp3",
+      "engine": "macOS say · Yelda (tr_TR)",
+      "type": "concatenative/system voice",
+      "license": "Apple macOS licence: system voices limited to personal, non-commercial use (confirm before any commercial use)",
+      "cost": "0",
+      "duration_s": 17.3
+    },
+    {
+      "file": "media/audio/samples/chatterbox-tr-natural.mp3",
+      "engine": "Resemble AI Chatterbox Multilingual (local, mps)",
+      "settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5
+      },
+      "type": "neural (0.5B, zero-shot multilingual)",
+      "variant": "default delivery",
+      "license": "MIT (commercial use allowed). Output carries Resemble's imperceptible Perth watermark.",
+      "cost": "0",
+      "render_time_s": 120.7,
+      "duration_s": 11.8
+    },
+    {
+      "file": "media/audio/samples/chatterbox-tr-calm.mp3",
+      "engine": "Resemble AI Chatterbox Multilingual (local, mps)",
+      "settings": {
+        "exaggeration": 0.3,
+        "cfg_weight": 0.3
+      },
+      "type": "neural (0.5B, zero-shot multilingual)",
+      "variant": "calmer, slower delivery",
+      "license": "MIT (commercial use allowed). Output carries Resemble's imperceptible Perth watermark.",
+      "cost": "0",
+      "render_time_s": 43.5,
+      "duration_s": 13.5
+    }
+  ]
+}

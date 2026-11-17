@@ -1,0 +1,39 @@
+{
+  "id": "V02",
+  "title": "Meyra'da 3 adımda kurulum, ezan bildirimi dahil",
+  "pillar": "P3",
+  "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "publish_target": "2026-11-17",
+  "packaged_at": "2026-11-14T20:44:10.332Z",
+  "md": "content/videos/V02-30-saniyede-kurulum.md",
+  "content_hash": "b88d79a044d27d89",
+  "meta_hash": "2cbbda5999735d4c",
+  "captions": {
+    "instagram": "Namaz vakitleri + ezan bildirimi 3 adımda hazır ✅\n\n1️⃣ Bildirim ve konum iznini ver\n2️⃣ Bulunduğun yere göre vakitler hazır\n3️⃣ Bildirim ayarlarından istediğin vakitleri aç\n\nSade, karmaşasız bir namaz vakti uygulaması: Meyra. Ücretsiz indir, link profilde.\n#namazvakitleri #ezan #namaz #meyra",
+    "tiktok": "Namaz vakitleri + ezan bildirimi 3 adımda ✅ Meyra, ücretsiz, link profilde #namazvakitleri #ezan #namaz #meyra",
+    "youtube": "Başlık: Namaz vakitleri ve ezan bildirimi 3 adımda nasıl kurulur? #shorts\nAçıklama: Meyra ile konumuna göre namaz vakitleri ve vakit bildirimleri. Ücretsiz indir: {{LINK:youtube_V02}}"
+  },
+  "video": {
+    "file": "media/rendered/V02.mp4",
+    "kind": "candidate",
+    "missing_assets": [],
+    "duration_s": 30.67,
+    "voice": "tts-candidate",
+    "manifest_sha256": "930eaece7c4d7ef8ea9c972091340d7ad3d764ee6b305617d603c6ad2d0e32cb",
+    "sha256": "930eaece7c4d7ef8ea9c972091340d7ad3d764ee6b305617d603c6ad2d0e32cb",
+    "rendered_from_hash": "b88d79a044d27d89"
+  },
+  "video_sha256": "930eaece7c4d7ef8ea9c972091340d7ad3d764ee6b305617d603c6ad2d0e32cb",
+  "qc": {
+    "status": "blocked",
+    "reasons": [
+      "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+    ],
+    "warnings": [],
+    "verdict": "MISSING"
+  }
+}

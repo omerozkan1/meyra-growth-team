@@ -1,0 +1,46 @@
+[
+  {
+    "file": "media/audio/samples/macos-yelda-baseline.mp3",
+    "match": 0.848,
+    "missing_or_changed_words": [
+      "otuz",
+      "meyra",
+      "yı",
+      "bulunduğun",
+      "meyra",
+      "ücretsiz"
+    ],
+    "heard": "Namaz vakitlerini ve ezan bildirimini 30 saniyede kuralım. Meylayı aç konum iznini ver. Bulunduğum yere göre bugünün vakitleri hazır. Bildirim ayarlarından ezan bildirimini istediğin vakitler için aç. Bu kadar. Meylayıcletsiz. Link profilde."
+  },
+  {
+    "file": "media/audio/samples/chatterbox-tr-natural.mp3",
+    "match": 0.765,
+    "missing_or_changed_words": [
+      "bildirimini",
+      "otuz",
+      "saniyede",
+      "meyra",
+      "yı",
+      "bildirimini",
+      "istediğin",
+      "meyra"
+    ],
+    "heard": "Namaz vakitlerini ve ezan bildirmini 30 saniye de kuralım. Meyrayı aç konum iznini ver. Bulunduğun yere göre bugünün vakitleri hazır. Bildirim ayarlarından ezan bildirmini istediğim vakitler için aç bu kadar. Meyler ücretsiz link profilde."
+  },
+  {
+    "file": "media/audio/samples/chatterbox-tr-calm.mp3",
+    "match": 0.746,
+    "missing_or_changed_words": [
+      "bildirimini",
+      "otuz",
+      "meyra",
+      "yı",
+      "iznini",
+      "bildirimini",
+      "istediğin",
+      "meyra",
+      "ücretsiz"
+    ],
+    "heard": "Namaz vakitlerini ve ezan bildirmini 30 saniyede kuralım. Meyrayı aç, konum izinli ver. Bulunduğun yere göre bugünün vakitleri hazır. Bildirim ayarlarından ezan bildirmini istediğim vakitler için aç bu kadar. Meyre ödüretsiz link profilde."
+  }
+]

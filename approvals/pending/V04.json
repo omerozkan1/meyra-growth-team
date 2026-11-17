@@ -1,0 +1,60 @@
+{
+  "id": "V04",
+  "title": "Namaza yeniden başlamak isteyenlere, geç değil",
+  "pillar": "P1",
+  "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "publish_target": "2026-11-19",
+  "packaged_at": "2026-11-14T20:44:10.339Z",
+  "md": "content/videos/V04-kendine-yeniden-basla.md",
+  "content_hash": "5f86b2e44dd40643",
+  "meta_hash": "982b056be814c674",
+  "captions": {
+    "instagram": "Geç kaldığını düşünme. 🤍\n\"Gerçekten, zorlukla beraber bir kolaylık vardır.\" (İnşirah, 6)\n\nBugün sadece bir vakitle başla. Yarın bir tane daha.\nMeyra, namaz vakitlerini sakin bir bildirimle hatırlatır. Kendine yeniden başla.\n\nYeniden başlamak isteyen birine gönder.\n#namaz #yenidenbaşla #dua #meyra",
+    "tiktok": "Uzun zamandır namaz kılmıyorsan, bugün sadece bir vakitle başla 🤍 #namaz #yenidenbaşla #meyra",
+    "youtube": "Başlık: Namaza yeniden başlamak için geç değil 🤍 #shorts\nAçıklama: \"Gerçekten, zorlukla beraber bir kolaylık vardır.\" (İnşirah Suresi, 6. ayet, Diyanet meali). Namaz vakitleri ve hatırlatmalar için Meyra: {{LINK:youtube_V04}}"
+  },
+  "video": {
+    "file": "media/rendered/V04.mp4",
+    "kind": "animatic",
+    "missing_assets": [
+      {
+        "segment": 1,
+        "need": "broll_or_footage",
+        "description": "Boş seccade, sabah ışığı"
+      },
+      {
+        "segment": 2,
+        "need": "broll_or_footage",
+        "description": "Pencereden gün doğumu"
+      },
+      {
+        "segment": 3,
+        "need": "broll_or_footage",
+        "description": "Yavaş zoom, sade arka plan"
+      },
+      {
+        "segment": 4,
+        "need": "broll_or_footage",
+        "description": "Takvimde bir gün işaretleniyor / el seccadeyi seriyor"
+      }
+    ],
+    "duration_s": 24.55,
+    "voice": "tts-draft",
+    "manifest_sha256": "680bb6cfd9921b9c1e7cdcfc440ca834a593517be579051deef162a540e72d00",
+    "sha256": "680bb6cfd9921b9c1e7cdcfc440ca834a593517be579051deef162a540e72d00",
+    "rendered_from_hash": "5f86b2e44dd40643"
+  },
+  "video_sha256": "680bb6cfd9921b9c1e7cdcfc440ca834a593517be579051deef162a540e72d00",
+  "qc": {
+    "status": "blocked",
+    "reasons": [
+      "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+    ],
+    "warnings": [],
+    "verdict": "MISSING"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "V02",
+  "title": "Meyra'da 30 saniyede kurulum, ezan bildirimi dahil",
+  "source_md": "content/videos/V02-30-saniyede-kurulum.md",
+  "source_md_hash": "08713f416e7f9537",
+  "rendered_at": "2026-11-14T18:33:05+00:00",
+  "rendered_epoch": 1794681185.445874,
+  "file": "media/rendered/V02.mp4",
+  "srt": "media/rendered/V02.srt",
+  "sha256": "b77df5266679f3bf75ea2932fd05914f3bb0f358fa2a3c50056af66f9102b795",
+  "duration_s": 27.23,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "kind": "animatic",
+  "voice": {
+    "type": "tts-draft",
+    "engine": "macOS say (Yelda, tr_TR)",
+    "note": "Draft only. Apple's macOS licence limits system voices; replace with an owner voice-over (assets/library/V02/voiceover.wav) or an approved licensed TTS before publishing."
+  },
+  "music": null,
+  "music_note": "No licensed music in assets/library/music; add from the platform library at upload or provide a licensed track.",
+  "segments": [
+    {
+      "n": 1,
+      "start": 0.0,
+      "end": 4.24,
+      "visual_kind": "broll",
+      "visual": "Ekranın köşesinde sayaç: 00:00",
+      "overlay": "Namaz vakitlerini 30 saniyede kur ⏱️",
+      "voice_text": "Namaz vakitlerini ve ezan bildirimini 30 saniyede kuralım."
+    },
+    {
+      "n": 2,
+      "start": 4.24,
+      "end": 10.24,
+      "visual_kind": "screen",
+      "visual": "Ekran kaydı: ilk açılış + konum izni. Yazı: \"1. Konum izni\"",
+      "overlay": "1. Konum izni",
+      "voice_text": "Meyra'yı aç, konum iznini ver."
+    },
+    {
+      "n": 3,
+      "start": 10.24,
+      "end": 16.24,
+      "visual_kind": "broll",
+      "visual": "Ana ekran, vakit listesi. Yazı: \"2. Vakitler hazır\"",
+      "overlay": "2. Vakitler hazır",
+      "voice_text": "Bulunduğun yere göre bugünün vakitleri hazır."
+    },
+    {
+      "n": 4,
+      "start": 16.24,
+      "end": 23.24,
+      "visual_kind": "screen",
+      "visual": "Bildirim ayarları ekranı. Yazı: \"3. Ezan bildirimi\"",
+      "overlay": "3. Ezan bildirimi",
+      "voice_text": "Bildirim ayarlarından ezan bildirimini istediğin vakitler için aç."
+    },
+    {
+      "n": 5,
+      "start": 23.24,
+      "end": 27.24,
+      "visual_kind": "endcard",
+      "visual": "Sayaç ~00:30 duruyor; logo + \"Ücretsiz indir · link profilde\"",
+      "overlay": "",
+      "voice_text": "Bu kadar. Meyra ücretsiz, link profilde."
+    }
+  ],
+  "missing_assets": [
+    {
+      "segment": 1,
+      "need": "broll_or_footage",
+      "description": "Ekranın köşesinde sayaç: 00:00"
+    },
+    {
+      "segment": 2,
+      "need": "screen_recording",
+      "description": "Ekran kaydı: ilk açılış + konum izni. Yazı: \"1. Konum izni\""
+    },
+    {
+      "segment": 3,
+      "need": "broll_or_footage",
+      "description": "Ana ekran, vakit listesi. Yazı: \"2. Vakitler hazır\""
+    },
+    {
+      "segment": 4,
+      "need": "screen_recording",
+      "description": "Bildirim ayarları ekranı. Yazı: \"3. Ezan bildirimi\""
+    }
+  ],
+  "used_assets": [
+    {
+      "path": "assets/brand/icon.png",
+      "source": "assets/brand/SOURCES.md"
+    }
+  ]
+}

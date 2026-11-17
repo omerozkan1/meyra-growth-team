@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:03,353
+Namaz vakitlerini ve ezan bildirimini üç
+
+2
+00:00:03,353 --> 00:00:04,610
+adımda kuralım.
+
+3
+00:00:04,470 --> 00:00:09,006
+Meyra'yı aç, bildirim ve konum iznini ver.
+
+4
+00:00:09,550 --> 00:00:12,801
+Bulunduğun yere göre bugünün vakitleri
+
+5
+00:00:12,801 --> 00:00:13,315
+hazır.
+
+6
+00:00:14,630 --> 00:00:16,911
+Bildirim ayarlarından, istediğin vakitler
+
+7
+00:00:16,911 --> 00:00:18,303
+için ezan bildirimini aç.
+
+8
+00:00:23,100 --> 00:00:27,402
+Bu kadar. Meyra ücretsiz, link profilde.

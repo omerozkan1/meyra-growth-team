@@ -1,0 +1,60 @@
+{
+  "id": "V01",
+  "title": "Kalpler ancak Allah'ı anmakla huzura kavuşur",
+  "pillar": "P1",
+  "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "publish_target": "2026-11-16",
+  "packaged_at": "2026-11-14T20:44:10.324Z",
+  "md": "content/videos/V01-kalpler-huzur.md",
+  "content_hash": "f48dace94f254b0c",
+  "meta_hash": "888f57e6d8c120aa",
+  "captions": {
+    "instagram": "Bazen tek ihtiyacımız birkaç dakikalık sessizlik. 🤍\n\"Bilesiniz ki kalpler ancak Allah'ı anmakla huzura kavuşur.\" (Ra'd, 28)\n\nBugün 1 dakikanı zikre ayırmaya ne dersin? Meyra'nın zikirmatiği gece modunda, sayaçların otomatik kaydedilir.\nKaydet, akşam tekrar bak. 📌\n\n#zikir #dua #huzur #meyra",
+    "tiktok": "Bugün 1 dakikanı zikre ayır 🤍 (Ra'd, 28) Zikirmatik: Meyra, link profilde. #zikir #huzur #dua #meyra",
+    "youtube": "Başlık: Kalpler ancak Allah'ı anmakla huzur bulur 🤍 #shorts\nAçıklama: \"Bilesiniz ki kalpler ancak Allah'ı anmakla huzura kavuşur.\" (Ra'd Suresi, 28. ayet, Diyanet meali). Günlük zikir için Meyra'yı ücretsiz indir: {{LINK:youtube_V01}}"
+  },
+  "video": {
+    "file": "media/rendered/V01.mp4",
+    "kind": "animatic",
+    "missing_assets": [
+      {
+        "segment": 1,
+        "need": "broll_or_footage",
+        "description": "Yağmurlu cam, akşam ışığı, yavaş"
+      },
+      {
+        "segment": 2,
+        "need": "broll_or_footage",
+        "description": "Telefonda hızlı kayan bildirimler (bulanık, marka göstermeden)"
+      },
+      {
+        "segment": 3,
+        "need": "broll_or_footage",
+        "description": "Elde tesbih / yumuşak ışık; yazı ortada, 2 satır"
+      },
+      {
+        "segment": 4,
+        "need": "broll_or_footage",
+        "description": "Meyra zikirmatik, gece modu, parmak dokunuşu, sayaç artıyor"
+      }
+    ],
+    "duration_s": 20.63,
+    "voice": "tts-draft",
+    "manifest_sha256": "e4acf62439671d68203f200618c4296c85877d26ff996f66a3a621581b96fd93",
+    "sha256": "e4acf62439671d68203f200618c4296c85877d26ff996f66a3a621581b96fd93",
+    "rendered_from_hash": "f48dace94f254b0c"
+  },
+  "video_sha256": "e4acf62439671d68203f200618c4296c85877d26ff996f66a3a621581b96fd93",
+  "qc": {
+    "status": "blocked",
+    "reasons": [
+      "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+    ],
+    "warnings": [],
+    "verdict": "MISSING"
+  }
+}

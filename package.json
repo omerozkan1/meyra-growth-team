@@ -1,0 +1,25 @@
+{
+  "name": "meyra-growth-team",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Meyra AI Growth Team: local content, approval and measurement tooling (zero dependencies).",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "queue": "node scripts/queue.mjs",
+    "links": "node scripts/links.mjs",
+    "metrics": "node scripts/metrics.mjs",
+    "approve": "node scripts/owner/decide.mjs approve",
+    "reject": "node scripts/owner/decide.mjs reject",
+    "owner:setup": "node scripts/owner/setup.mjs",
+    "approvals:sync": "node scripts/approvals-sync.mjs",
+    "render": "python3 media/pipeline/render.py",
+    "publish:dry-run": "node scripts/publish/publish.mjs --dry-run",
+    "daily": "bash scripts/daily/run-daily.sh",
+    "daily:test": "bash scripts/daily/run-daily.sh --test",
+    "panel": "node scripts/panel/server.mjs",
+    "check": "node --test tests/*.test.mjs && node scripts/validate.mjs"
+  }
+}

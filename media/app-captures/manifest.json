@@ -1,0 +1,571 @@
+{
+  "screens": {
+    "first_run": {
+      "scenario": "firstrun",
+      "markers": {
+        "start": 8.7,
+        "launched": 12.58,
+        "dialog_shown": 16.93,
+        "notifications_allowed": 16.88,
+        "location_allowed": 20.23,
+        "ad_closed": 28.96,
+        "sheet_shown": 29.02,
+        "location_confirmed": 31.8,
+        "times_visible": 31.87,
+        "notification_settings": 47.64,
+        "reminder_toggled": 51.05,
+        "end": 53.56
+      },
+      "missing": [],
+      "files": {
+        "full_clip": "media/app-captures/first_run/full.mp4"
+      },
+      "steps": [
+        {
+          "phase": "start",
+          "t": 0.0
+        },
+        {
+          "phase": "launched",
+          "t": 3.88
+        },
+        {
+          "phase": "dialog_shown",
+          "t": 5.09
+        },
+        {
+          "phase": "notifications_allowed",
+          "t": 8.17
+        },
+        {
+          "phase": "dialog_shown",
+          "t": 8.22
+        },
+        {
+          "phase": "location_allowed",
+          "t": 11.53
+        },
+        {
+          "phase": "ad_closed",
+          "t": 20.26
+        },
+        {
+          "phase": "sheet_shown",
+          "t": 20.32
+        },
+        {
+          "phase": "location_confirmed",
+          "t": 23.1
+        },
+        {
+          "phase": "times_visible",
+          "t": 23.17
+        },
+        {
+          "phase": "notification_settings",
+          "t": 38.94
+        },
+        {
+          "phase": "reminder_toggled",
+          "t": 42.35
+        },
+        {
+          "phase": "end",
+          "t": 44.85
+        }
+      ],
+      "duration_s": 44.85,
+      "ui_labels": [],
+      "verified": true
+    },
+    "home": {
+      "scenario": "features",
+      "markers": {
+        "start": 20.24,
+        "still": 21.25,
+        "use": 23.3,
+        "end": 36.23
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/home/open.png",
+        "open_clip": "media/app-captures/home/open.mp4",
+        "use_clip": "media/app-captures/home/use.mp4",
+        "full_clip": "media/app-captures/home/full.mp4",
+        "zoom_clip": "media/app-captures/home/zoom.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Fatih / İstanbul / 14 Kasım 2026, Cumartesi",
+        "İmsak",
+        "06:53:09",
+        "06:15",
+        "📖 GÜNÜN AYETI",
+        "\"Kim Allah'a tevekkül ederse, O ona yeter. (Talâk, 3)\"",
+        "10 Aralık",
+        "Regaib Kandili",
+        "26 Gün Kaldı",
+        "İmsak / Sabah vaktinin başlangıcı / 06:15 / Güneş / Sabah vaktinin bitişi / 07:43 / Öğle / 12:53 / İkindi / 15:30 / Akşam / 17:54 / Yatsı / 19:17",
+        "Kur'an Oku / Hatim ve cüz takibi",
+        "Kur'an-ı Kerim / Tüm sureler",
+        "Hadisler / Yeni içerikler",
+        "Kur'an Öğreniyorum / Harfleri öğren",
+        "İbadet Takibi / Takibini sürdür",
+        "Dualar / Kategoriler",
+        "Kıble / Yön bul",
+        "Zikirmatik / Günlük zikir",
+        "Esmaül Hüsna / Sesli içerik",
+        "Dini Günler / Mübarek günler",
+        "Camiler / En yakın camiler",
+        "Zekat / Hızlı hesapla",
+        "Bildirimler / Kişiselleştir"
+      ],
+      "verified": true
+    },
+    "prayer_times": {
+      "scenario": "features",
+      "markers": {
+        "start": 27.26,
+        "still": 27.56,
+        "use": 30.57,
+        "end": 31.57
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/prayer_times/open.png",
+        "open_clip": "media/app-captures/prayer_times/open.mp4",
+        "use_clip": "media/app-captures/prayer_times/use.mp4",
+        "full_clip": "media/app-captures/prayer_times/full.mp4",
+        "zoom_clip": "media/app-captures/prayer_times/zoom.mp4"
+      },
+      "ui_labels": [],
+      "verified": true
+    },
+    "qibla": {
+      "scenario": "features",
+      "markers": {
+        "start": 46.44,
+        "still": 53.61,
+        "use": 55.14,
+        "end": 61.14
+      },
+      "missing": [
+        "not_loaded:only_2_labels"
+      ],
+      "files": {
+        "still": "media/app-captures/qibla/open.png",
+        "open_clip": "media/app-captures/qibla/open.mp4",
+        "use_clip": "media/app-captures/qibla/use.mp4",
+        "full_clip": "media/app-captures/qibla/full.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Kıble"
+      ],
+      "verified": false
+    },
+    "quran": {
+      "scenario": "features",
+      "markers": {
+        "start": 68.49,
+        "still": 74.38,
+        "use": 75.91,
+        "end": 95.31
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/quran/open.png",
+        "open_clip": "media/app-captures/quran/open.mp4",
+        "use_clip": "media/app-captures/quran/use.mp4",
+        "full_clip": "media/app-captures/quran/full.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Kur'an-ı Kerim",
+        "Sure ara...",
+        "1 / Fatiha / Mekki • 7 Ayet / سُورَةُ ٱلْفَاتِحَةِ",
+        "2 / Bakara / Medeni • 286 Ayet / سُورَةُ البَقَرَةِ",
+        "3 / Âl-i İmrân / Medeni • 200 Ayet / سُورَةُ آلِ عِمۡرَانَ",
+        "4 / Nisâ / Medeni • 176 Ayet / سُورَةُ النِّسَاءِ",
+        "5 / Mâide / Medeni • 120 Ayet / سُورَةُ المَائـِدَةِ",
+        "6 / En'âm / Mekki • 165 Ayet / سُورَةُ الأَنۡعَامِ",
+        "7 / A'râf / Mekki • 206 Ayet / سُورَةُ الأَعۡرَافِ",
+        "8 / Enfâl / Medeni • 75 Ayet / سُورَةُ الأَنفَالِ",
+        "9 / Tevbe / Medeni • 129 Ayet / سُورَةُ التَّوۡبَةِ",
+        "10 / Yûnus / Mekki • 109 Ayet / سُورَةُ يُونُسَ",
+        "11 / Hûd / Mekki • 123 Ayet / سُورَةُ هُودٍ"
+      ],
+      "verified": true
+    },
+    "quran_surah": {
+      "scenario": "features",
+      "markers": {
+        "still": 87.94
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/quran_surah/open.png",
+        "open_clip": "media/app-captures/quran_surah/open.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Fatiha",
+        "سُورَةُ ٱلْفَاتِحَةِ",
+        "Mekki • 7 Ayet",
+        "Dinle",
+        "1.0x",
+        "1 / ‫﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ‬ / bismi-llâhi-rraḥmâni-rraḥîm. / Rahmân ve Rahîm olan Allah'ın ismiyle.",
+        "2 / ‫ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ‬ / elḥamdü lillâhi rabbi-l`âlemîn. / Hamd o âlemlerin Rabbi,",
+        "3 / ‫ٱلرَّحْمَٰنِ ٱلرَّحِيمِ‬ / erraḥmâni-rraḥîm. / O Rahmân ve Rahim,",
+        "4 / ‫مَٰلِكِ يَوْمِ ٱلدِّينِ‬ / mâliki yevmi-ddîn. / O, din gününün maliki Allah'ın."
+      ],
+      "verified": true
+    },
+    "zikirmatik": {
+      "scenario": "features",
+      "markers": {
+        "start": 102.02,
+        "still": 108.21,
+        "use": 109.74,
+        "end": 124.44
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/zikirmatik/open.png",
+        "open_clip": "media/app-captures/zikirmatik/open.mp4",
+        "use_clip": "media/app-captures/zikirmatik/use.mp4",
+        "full_clip": "media/app-captures/zikirmatik/full.mp4",
+        "zoom_clip": "media/app-captures/zikirmatik/zoom.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Zikirmatik",
+        "Tesbih",
+        "Zikir",
+        "Subhanallah / سُبْحَانَ اللَّهِ",
+        "0  /  33",
+        "Zikir Seç",
+        "Hedef",
+        "Geri Al",
+        "Sıfırla",
+        "Bugün Toplam:",
+        "0"
+      ],
+      "verified": true
+    },
+    "dua": {
+      "scenario": "features",
+      "markers": {
+        "start": 131.8,
+        "still": 138.04,
+        "use": 139.57,
+        "end": 156.59
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/dua/open.png",
+        "open_clip": "media/app-captures/dua/open.mp4",
+        "use_clip": "media/app-captures/dua/use.mp4",
+        "full_clip": "media/app-captures/dua/full.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Dualar",
+        "Dua ara...",
+        "Günlük Dualar / Her an okunacak özel dualar",
+        "Namaz Duaları / Namaz içinde ve sonrasında",
+        "Koruyucu Dualar / Kötülüklerden Allah'a sığınma",
+        "Tövbe & Bağışlanma / Bağışlanma ve istiğfar",
+        "İç huzur ve kaygı azaltıcı dualar / Ruhunuzu dinlendiren, manevi sakinliğe ulaştıran özel dualar serisi.",
+        "Gece okunacak derin dualar / Maneviyatınızı güçlendiren dualar",
+        "Rızık ve bereket duaları / Bereket, bolluk ve rızkınızı artıracak kıymetli sırlar ve dualar.",
+        "Kalp ferahlığı duaları / Maneviyatınızı güçlendiren dualar"
+      ],
+      "verified": true
+    },
+    "dua_list": {
+      "scenario": "features",
+      "markers": {
+        "still": 143.49
+      },
+      "missing": [
+        "content_error:internet bağlantınızı kontrol"
+      ],
+      "files": {
+        "still": "media/app-captures/dua_list/open.png",
+        "open_clip": "media/app-captures/dua_list/open.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Günlük Dualar",
+        "İçerikleri görmek için internet bağlantınızı kontrol edin."
+      ],
+      "verified": false
+    },
+    "dua_detail": {
+      "scenario": "features",
+      "markers": {
+        "still": 147.86
+      },
+      "missing": [
+        "content_error:internet bağlantınızı kontrol"
+      ],
+      "files": {
+        "still": "media/app-captures/dua_detail/open.png",
+        "open_clip": "media/app-captures/dua_detail/open.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Günlük Dualar",
+        "İçerikleri görmek için internet bağlantınızı kontrol edin."
+      ],
+      "verified": false
+    },
+    "notifications": {
+      "scenario": "features",
+      "markers": {
+        "start": 163.98,
+        "still": 173.93,
+        "use": 175.47,
+        "end": 178.74
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/notifications/open.png",
+        "open_clip": "media/app-captures/notifications/open.mp4",
+        "use_clip": "media/app-captures/notifications/use.mp4",
+        "full_clip": "media/app-captures/notifications/full.mp4",
+        "zoom_clip": "media/app-captures/notifications/zoom.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Bildirim Ayarları",
+        "Vakit Bildirimleri / Bildirim Zamanı Düzeltmesi / Bulunduğunuz yerde ezan birkaç dakika farklı okunuyorsa bildirim saatini ayarlayabilirsiniz / Tam vakitte",
+        "İmsak / Sabah vaktinin başlangıcında bildirim al",
+        "Güneş / Sabah vaktinin bitişinde bildirim al",
+        "Öğle",
+        "İkindi",
+        "Akşam",
+        "Yatsı",
+        "Vakit Öncesi Hatırlatıcı / Namaz vaktinden kısa süre önce bildirim alın",
+        "Ezan Sesi / Bildirim geldiğinde ezan sesi çalınır",
+        "Manevi Hatırlatmalar",
+        "Akşam Zikri Hatırlatıcısı / Günlük zikrinizi hatırlatır",
+        "Günlük Dua / Her gün seçilmiş özel dua içeriği alın",
+        "Özel Gün Hatırlatmaları / Mübarek gün ve geceleri kaçırmayın",
+        "Diğer Premium Bildirimler"
+      ],
+      "verified": true
+    },
+    "worship_tracking": {
+      "scenario": "features",
+      "markers": {
+        "start": 185.41,
+        "still": 191.6,
+        "use": 193.13,
+        "end": 203.3
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/worship_tracking/open.png",
+        "open_clip": "media/app-captures/worship_tracking/open.mp4",
+        "use_clip": "media/app-captures/worship_tracking/use.mp4",
+        "full_clip": "media/app-captures/worship_tracking/full.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "İbadet Takibi",
+        "Namaz",
+        "Kaza",
+        "Kur'an",
+        "Zikir",
+        "Oruç",
+        "Bugün Kılınan Namazlar",
+        "Sabah",
+        "Öğle",
+        "İkindi",
+        "Akşam",
+        "Yatsı",
+        "Namaz düzenini güçlendir / Günlük takibini sürdür, Premium ile namaz devamlılığını daha detaylı gör. / Detaylı takibi gör"
+      ],
+      "verified": true
+    },
+    "esmaul_husna": {
+      "scenario": "features",
+      "markers": {
+        "start": 209.99,
+        "still": 216.22,
+        "use": 217.75,
+        "end": 222.2
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/esmaul_husna/open.png",
+        "open_clip": "media/app-captures/esmaul_husna/open.mp4",
+        "use_clip": "media/app-captures/esmaul_husna/use.mp4",
+        "full_clip": "media/app-captures/esmaul_husna/full.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Esmaül Hüsna",
+        "1 / Allah / ‫اللّٰهُ‬ / Eşi benzeri olmayan, bütün noksan sıfatlardan münezzeh tek ve gerçek Ma'bud.",
+        "Zikirmatik'te Çek",
+        "2 / Er-Rahmân / ‫الرَّحْمَانُ‬ / Dünyada bütün mahlukata merhamet eden, şefkat gösteren, ihsan eden.",
+        "3 / Er-Rahîm / ‫الرَّحِيمُ‬ / Ahirette, müminlere sonsuz ikram, lütuf ve ihsanda bulunan.",
+        "4 / El-Melik / ‫الْمَلِكُ‬ / Mülkün, kâinatın sahibi, mülk ve saltanatı devamlı olan.",
+        "5 / El-Kuddûs / ‫الْقُدُّوسُ‬ / Her türlü eksiklikten uzak, bütün kemâl sıfatları kendisinde toplayan."
+      ],
+      "verified": true
+    },
+    "religious_days": {
+      "scenario": "features",
+      "markers": {
+        "start": 228.91,
+        "still": 235.12,
+        "use": 236.65,
+        "end": 241.1
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/religious_days/open.png",
+        "open_clip": "media/app-captures/religious_days/open.mp4",
+        "use_clip": "media/app-captures/religious_days/use.mp4",
+        "full_clip": "media/app-captures/religious_days/full.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Dini Takvim",
+        "2026 Yılı Dini Günler",
+        "Miraç Kandili / 15 Ocak 2026",
+        "Berat Kandili / 2 Şubat 2026",
+        "Ramazan Başlangıcı / 19 Şubat 2026",
+        "Kadir Gecesi / 16 Mart 2026",
+        "Ramazan Bayramı Arifesi / 19 Mart 2026",
+        "Ramazan Bayramı 1. Gün / 20 Mart 2026",
+        "Ramazan Bayramı 2. Gün / 21 Mart 2026",
+        "Ramazan Bayramı 3. Gün / 22 Mart 2026",
+        "Kurban Bayramı Arifesi / 26 Mayıs 2026",
+        "Kurban Bayramı 1. Gün / 27 Mayıs 2026",
+        "Kurban Bayramı 2. Gün / 28 Mayıs 2026"
+      ],
+      "verified": true
+    },
+    "zakat": {
+      "scenario": "features",
+      "markers": {
+        "start": 247.81,
+        "still": 254.0,
+        "use": 255.52,
+        "end": 258.53
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/zakat/open.png",
+        "open_clip": "media/app-captures/zakat/open.mp4",
+        "use_clip": "media/app-captures/zakat/use.mp4",
+        "full_clip": "media/app-captures/zakat/full.mp4",
+        "zoom_clip": "media/app-captures/zakat/zoom.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Zekat Hesaplama",
+        "Zekat Hesabı",
+        "Zekat vermek için üzerinden 1 kameri yıl geçmiş nisap miktarı mala sahip olmak gerekir.",
+        "Nakit Para (TL)",
+        "0",
+        "Altın Miktarı (Gram)",
+        "* 1 Gram Altın: ₺6280.54",
+        "* Nisap Sınırı: 80.18 Gram Altın (₺503573.70)",
+        "HESAPLA"
+      ],
+      "verified": true
+    },
+    "mosques": {
+      "scenario": "features",
+      "markers": {
+        "start": 265.2,
+        "still": 274.38,
+        "use": 275.91,
+        "end": 279.92
+      },
+      "missing": [
+        "not_loaded:only_3_labels"
+      ],
+      "files": {
+        "still": "media/app-captures/mosques/open.png",
+        "open_clip": "media/app-captures/mosques/open.mp4",
+        "use_clip": "media/app-captures/mosques/use.mp4",
+        "full_clip": "media/app-captures/mosques/full.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "En Yakın Camiler"
+      ],
+      "verified": false
+    },
+    "learn_quran": {
+      "scenario": "features",
+      "markers": {
+        "start": 286.62,
+        "still": 292.83,
+        "use": 294.36,
+        "end": 298.82
+      },
+      "missing": [],
+      "files": {
+        "still": "media/app-captures/learn_quran/open.png",
+        "open_clip": "media/app-captures/learn_quran/open.mp4",
+        "use_clip": "media/app-captures/learn_quran/use.mp4",
+        "full_clip": "media/app-captures/learn_quran/full.mp4"
+      },
+      "ui_labels": [
+        "Meyra",
+        "Geri",
+        "Kur'an Öğreniyorum",
+        "Öğrenme Durumunuz / %0 / %0 Tamamlandı / İlk derse başlayın",
+        "Tüm Harfleri Gör / ‫ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن و ه ي‬",
+        "Harfleri Tanı / Arapça alfabesindeki 28 harfin yapısal şekillerini ve temel seslerini öğrenerek okumaya ilk adımı atın.",
+        "ا / ‪Elif‬ / ‪Noktasız, düz dikey bir çizgi. Alfabenin ilk harfi.‬",
+        "ب ت ث / ‪Be, Te, Se‬ / ‪Yay şeklinde ve noktalı harfler.‬",
+        "ج ح خ / ‪Cim, Ha, Hı‬ / ‪Yuvarlak hatlı harfler.‬",
+        "د ذ / ‪Dal, Zel‬ / ‪Köşeli hatlı harfler.‬",
+        "ر ز / ‪Ra, Ze‬ / ‪Aşağı kıvrımlı harfler.‬",
+        "س ش / ‪Sin, Şın‬ / ‪Üç dişli harfler.‬"
+      ],
+      "verified": true
+    },
+    "hatim": {
+      "scenario": "features",
+      "markers": {
+        "start": 309.46,
+        "missing:not_found_home_card": 314.53
+      },
+      "missing": [
+        "missing:not_found_home_card",
+        "not_loaded:only_0_labels"
+      ],
+      "files": {
+        "full_clip": "media/app-captures/hatim/full.mp4"
+      },
+      "ui_labels": [],
+      "verified": false
+    }
+  },
+  "captured_at": "2026-11-14T20:39:15+00:00",
+  "device": "iPhone 17 Pro Simulator (iOS 26.5) CDCE3432-DDED-4084-9842-14A7E86A317F",
+  "app_version": "2.5.14 (64)",
+  "location": "simulated Fatih/İstanbul 41.0165,28.9497",
+  "backend": "production (owner-approved 2026-11-14)",
+  "note": "Real app screens recorded from the Meyra debug build. Captures are never edited to show features that don't exist."
+}

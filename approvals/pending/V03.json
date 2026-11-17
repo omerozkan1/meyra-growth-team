@@ -1,0 +1,65 @@
+{
+  "id": "V03",
+  "title": "Otel odasında veya yeni bir şehirde kıble nasıl bulunur? 3 yol",
+  "pillar": "P2",
+  "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "publish_target": "2026-11-18",
+  "packaged_at": "2026-11-14T20:44:10.336Z",
+  "md": "content/videos/V03-otelde-kible.md",
+  "content_hash": "d90b5abe2c60263c",
+  "meta_hash": "418ccf19b1940ef1",
+  "captions": {
+    "instagram": "Seyahatte kıbleyi bulmanın 3 yolu 🧭\n1️⃣ Resepsiyona sor\n2️⃣ Güneşin konumu (sadece kaba yön)\n3️⃣ Telefonla: pusula + harita (telefonu düz tut, metalden uzak dur)\n\nMeyra'nın kıble bulucusu ve en yakın camiler özelliği seyahatte işini kolaylaştırır. Link profilde.\nSeyahat eden birine gönder ✈️\n#kıble #namaz #seyahat #meyra",
+    "tiktok": "Otel odasında kıble nerede? 3 yol 🧭 Kaydet, lazım olur. #kıble #namaz #seyahat #meyra",
+    "youtube": "Başlık: Otel odasında kıble nasıl bulunur? 3 pratik yol #shorts\nAçıklama: Resepsiyon, güneş ve telefon pusulası. Meyra kıble bulucu (pusula + harita): {{LINK:youtube_V03}}"
+  },
+  "video": {
+    "file": "media/rendered/V03.mp4",
+    "kind": "animatic",
+    "missing_assets": [
+      {
+        "segment": 1,
+        "need": "broll_or_footage",
+        "description": "Bavul açılıyor, otel odası"
+      },
+      {
+        "segment": 2,
+        "need": "broll_or_footage",
+        "description": "Resepsiyon / oda tavanı b-roll. Yazı: \"1. Sor\""
+      },
+      {
+        "segment": 3,
+        "need": "broll_or_footage",
+        "description": "Pencereden güneş. Yazı: \"2. Güneş (kaba yön)\""
+      },
+      {
+        "segment": 4,
+        "need": "screen_recording",
+        "description": "Ekran kaydı: kıble bulucu, pusula dönüyor, harita görünümü. Yazı: \"3. Pusula + harita\""
+      },
+      {
+        "segment": 5,
+        "need": "broll_or_footage",
+        "description": "Yazı: \"📌 Kaydet · Meyra link profilde\""
+      }
+    ],
+    "duration_s": 33.63,
+    "voice": "tts-draft",
+    "manifest_sha256": "b6e155c8075e415ae0f6510808ad8f126d3bedafae2116e9b738b22862d33c10",
+    "sha256": "b6e155c8075e415ae0f6510808ad8f126d3bedafae2116e9b738b22862d33c10",
+    "rendered_from_hash": "d90b5abe2c60263c"
+  },
+  "video_sha256": "b6e155c8075e415ae0f6510808ad8f126d3bedafae2116e9b738b22862d33c10",
+  "qc": {
+    "status": "blocked",
+    "reasons": [
+      "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+    ],
+    "warnings": [],
+    "verdict": "MISSING"
+  }
+}

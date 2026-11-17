@@ -1,0 +1,28 @@
+date,day,video_id,pillar,working_title,platforms,slot_tr,notes
+2026-11-15,Sun,,,OWNER: approve V01-V05 + link accounts + grant read-only analytics,,,Approval session
+2026-11-16,Mon,V01,P1,Kalpler ancak Allah'ı anmakla huzura kavuşur,ig|tt|yt,20:30,Baseline week starts
+2026-11-17,Tue,V02,P3,30 saniyede kurulum,ig|tt|yt,12:30,
+2026-11-18,Wed,V03,P2,Otel odasında kıble,ig|tt|yt,20:30,
+2026-11-19,Thu,V04,P1,Namaza yeniden başlamak,ig|tt|yt,20:30,
+2026-11-20,Fri,V05,P3,Zikirmatik + tesbihat,ig|tt|yt,11:00,Cuma
+2026-11-22,Sun,,,OWNER: approve V06-V10; record W1 metrics,,,Approval + metrics
+2026-11-23,Mon,V06,P2,Kur'an okumayı sıfırdan,ig|tt|yt,20:30,
+2026-11-24,Tue,V07,P2,Kış vakitleri 3 ayar,ig|tt|yt,12:30,Hook A/B: TikTok alt hook
+2026-11-25,Wed,V08,P3,Kaza takibi,ig|tt|yt,20:30,
+2026-11-26,Thu,V09,P1,Beni anın (Bakara 152),ig|tt|yt,20:30,
+2026-11-27,Fri,V10,P3,Meyra Asistan'a sordum,ig|tt|yt,11:00,Cuma; comment-question series seed
+2026-11-29,Sun,,,OWNER: approve W3 batch; record W2 metrics; set install targets,,,
+2026-11-30,Mon,V11,P2,TBD: remake of W1-W2 winner (new hook),ig|tt|yt,20:30,Decision rule: >=2x median
+2026-12-01,Tue,V12,P3,Hatim takibi demo,ig|tt|yt,12:30,
+2026-12-02,Wed,V13,P1,TBD: Küçük Adım series ep.,ig|tt|yt,20:30,
+2026-12-03,Thu,V14,P2,TBD: answer a top comment question (from V10),ig|tt|yt,20:30,
+2026-12-04,Fri,V15,P3,TBD: zekat hesaplama demo,ig|tt|yt,11:00,Cuma
+2026-12-06,Sun,,,OWNER: approve Üç Aylar batch; record W3 metrics,,,Verify Regaib/Üç Aylar dates on Diyanet calendar
+2026-12-07,Mon,V16,P1,TBD: Üç Aylar yaklaşıyor - 3 küçük hedef,ig|tt|yt,20:30,Seasonal
+2026-12-08,Tue,V17,P3,TBD: Üç Aylar hedefin için ibadet takibi,ig|tt|yt,12:30,Seasonal
+2026-12-09,Wed,V18,P2,TBD: Üç Aylar'da hatim planı,ig|tt|yt,20:30,Seasonal
+2026-12-10,Thu,V19,P1,TBD: Regaib Kandili (date to verify),ig|tt|yt,19:00,Only if Diyanet date confirmed
+2026-12-11,Fri,V20,P2,TBD: dini günler takvimi + Cuma,ig|tt|yt,11:00,
+2026-12-13,Sun,,,OWNER: record W4 metrics,,,
+2026-12-14,Mon,,,30-day retrospective (/weekly-report + plan next 30 days),,,
+2026-12-15,Tue,,,Decide EN/AR expansion timing,,,

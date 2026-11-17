@@ -1,0 +1,89 @@
+{
+  "id": "V02",
+  "title": "Meyra'da 3 adımda kurulum, ezan bildirimi dahil",
+  "source_md": "content/videos/V02-30-saniyede-kurulum.md",
+  "source_md_hash": "b88d79a044d27d89",
+  "edit_spec": "media/pipeline/edits/V02.json",
+  "rendered_at": "2026-11-14T20:36:07+00:00",
+  "rendered_epoch": 1794688567.1783879,
+  "file": "media/rendered/V02.mp4",
+  "srt": "media/rendered/V02.srt",
+  "sha256": "476ed87aa3db0559a10e94ad068b1595e18d4e95edf775dcb80759c015de0989",
+  "duration_s": 28.2,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "kind": "candidate",
+  "voice": {
+    "type": "tts-candidate",
+    "engine": "Resemble AI Chatterbox Multilingual (MIT)",
+    "note": "Candidate voice: owner has not chosen the final TTS engine yet (see media/audio/README.md)."
+  },
+  "music": null,
+  "music_note": "No licensed music bundled; add a platform-library track at upload if desired.",
+  "cues": [
+    {
+      "at": "first_run:launched",
+      "offset": -1.2,
+      "overlay": "Namaz vakitleri + ezan bildirimi: 3 adımda",
+      "say": "Namaz vakitlerini ve ezan bildirimini üç adımda kuralım.",
+      "start": 0.0,
+      "voice_dur": 4.61
+    },
+    {
+      "at": "first_run:notifications_allowed",
+      "offset": -0.7,
+      "overlay": "1. İzinleri ver",
+      "say": "Meyra'yı aç, bildirim ve konum iznini ver.",
+      "start": 4.77,
+      "voice_dur": 4.54
+    },
+    {
+      "at": "first_run:location_confirmed",
+      "offset": 0.2,
+      "overlay": "2. Vakitler hazır",
+      "say": "Bulunduğun yere göre bugünün vakitleri hazır.",
+      "start": 9.55,
+      "voice_dur": 3.76
+    },
+    {
+      "at": "first_run:notification_settings",
+      "offset": -2.4,
+      "overlay": "3. Ezan bildirimi",
+      "say": "Bildirim ayarlarından, istediğin vakitler için ezan bildirimini aç.",
+      "start": 14.63,
+      "voice_dur": 3.67
+    },
+    {
+      "at": "endcard:start",
+      "offset": 0.1,
+      "overlay": "",
+      "say": "Bu kadar. Meyra ücretsiz, link profilde.",
+      "start": 23.1,
+      "voice_dur": 4.3
+    }
+  ],
+  "cuts": [],
+  "timer": null,
+  "warnings": [],
+  "capture_source": {
+    "device": "iPhone 17 Pro Simulator (iOS 26.5) CDCE3432-DDED-4084-9842-14A7E86A317F",
+    "app_version": "2.5.14 (64)",
+    "captured_at": "2026-11-14T20:28:05+00:00"
+  },
+  "missing_assets": [],
+  "used_assets": [
+    {
+      "path": "media/app-captures/first_run/full.mp4",
+      "source": "media/app-captures/manifest.json (real app recording)"
+    },
+    {
+      "path": "media/app-captures/first_run/full.mp4",
+      "source": "media/app-captures/manifest.json (real app recording)"
+    },
+    {
+      "path": "media/app-captures/first_run/full.mp4",
+      "source": "media/app-captures/manifest.json (real app recording)"
+    }
+  ]
+}

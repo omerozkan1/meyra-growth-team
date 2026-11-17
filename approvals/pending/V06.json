@@ -1,0 +1,65 @@
+{
+  "id": "V06",
+  "title": "Kur'an okumayı hiç bilmiyorum, nereden başlarım?",
+  "pillar": "P2",
+  "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "publish_target": "2026-11-23",
+  "packaged_at": "2026-11-14T20:44:10.345Z",
+  "md": "content/videos/V06-kuran-sifirdan.md",
+  "content_hash": "858a19a6c1e876c1",
+  "meta_hash": "dd51d0b3e4515f14",
+  "captions": {
+    "instagram": "Kur'an okumaya başlamak için geç değil 🤍\n1️⃣ Önce harfleri tanı\n2️⃣ Her gün az ama düzenli (10 dk bile yeter)\n3️⃣ Tekrar et, mümkünse bir hocadan da dinle\n\nMeyra'nın \"Kur'an Öğreniyorum\" bölümü harflerden tecvide adım adım ilerler. Link profilde.\nBaşlamak isteyen birini etiketle.\n#kuran #kuranöğreniyorum #elifba #meyra",
+    "tiktok": "Kur'an okumayı hiç bilmiyorsan, 3 adım 🤍 #kuran #elifba #kuranöğreniyorum #meyra",
+    "youtube": "Başlık: Kur'an okumayı sıfırdan öğrenmek: nereden başlamalı? #shorts\nAçıklama: Harfler, düzenli çalışma, tekrar. Meyra ile adım adım Kur'an öğren: {{LINK:youtube_V06}}"
+  },
+  "video": {
+    "file": "media/rendered/V06.mp4",
+    "kind": "animatic",
+    "missing_assets": [
+      {
+        "segment": 1,
+        "need": "broll_or_footage",
+        "description": "Defter, kalem, sade masa"
+      },
+      {
+        "segment": 2,
+        "need": "screen_recording",
+        "description": "Yazı: \"1. Harfler\" + ekran kaydı: harf listesi"
+      },
+      {
+        "segment": 3,
+        "need": "screen_recording",
+        "description": "Yazı: \"2. Günde 10 dk\" + takvim/plan ekranı"
+      },
+      {
+        "segment": 4,
+        "need": "screen_recording",
+        "description": "Yazı: \"3. Tekrar\" + alıştırma ekranı"
+      },
+      {
+        "segment": 5,
+        "need": "broll_or_footage",
+        "description": "Yazı: \"Bir hocadan dinlemek de çok değerli 🤍\""
+      }
+    ],
+    "duration_s": 32.7,
+    "voice": "tts-draft",
+    "manifest_sha256": "89a1a967a6b775d5bd1c92f1fee4ca8112468ad851686f9bad4eb8db6aba477f",
+    "sha256": "89a1a967a6b775d5bd1c92f1fee4ca8112468ad851686f9bad4eb8db6aba477f",
+    "rendered_from_hash": "858a19a6c1e876c1"
+  },
+  "video_sha256": "89a1a967a6b775d5bd1c92f1fee4ca8112468ad851686f9bad4eb8db6aba477f",
+  "qc": {
+    "status": "blocked",
+    "reasons": [
+      "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+    ],
+    "warnings": [],
+    "verdict": "MISSING"
+  }
+}

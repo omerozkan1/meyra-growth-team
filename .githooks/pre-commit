@@ -1,0 +1,3 @@
+#!/bin/sh
+# Blocks commits that contain secrets or invalid content approvals.
+node scripts/validate.mjs || { echo "pre-commit: validation failed"; exit 1; }

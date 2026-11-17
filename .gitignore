@@ -1,0 +1,23 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.p8
+*.pem
+*service-account*.json
+credentials*.json
+# media (large, keep out of git)
+assets/raw/
+assets/library/**/*.mp4
+assets/library/**/*.mov
+media/work/
+assets/exports/
+*.mp4
+*.mov
+# local
+node_modules/
+.DS_Store
+.claude/settings.local.json
+# python
+__pycache__/
+*.pyc

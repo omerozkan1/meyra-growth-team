@@ -1,0 +1,58 @@
+{
+  "id": "V02",
+  "note": "Real first-run take from media/app-captures/first_run (fresh install, iOS Simulator, debug build 2.5.14). Trims: the AdMob app-open ad (location_allowed → ad_closed) and bot wait time before the notification settings. No time claim is made, so trims don't misrepresent duration.",
+  "timeline": [
+    {
+      "source": "capture:first_run/full",
+      "in": "launched+-1.2",
+      "out": "location_allowed+0.8"
+    },
+    {
+      "source": "capture:first_run/full",
+      "in": "ad_closed+0.2",
+      "out": "times_visible+4.6"
+    },
+    {
+      "source": "capture:first_run/full",
+      "in": "notification_settings+-2.6",
+      "out": "end"
+    },
+    {
+      "source": "endcard",
+      "dur": 5.2,
+      "text": "Ücretsiz indir · link profilde"
+    }
+  ],
+  "cues": [
+    {
+      "at": "first_run:launched",
+      "offset": -1.2,
+      "overlay": "Namaz vakitleri + ezan bildirimi: 3 adımda",
+      "say": "Namaz vakitlerini ve ezan bildirimini üç adımda kuralım."
+    },
+    {
+      "at": "first_run:notifications_allowed",
+      "offset": -0.3,
+      "overlay": "1. İzinleri ver",
+      "say": "Meyra'yı aç, bildirim ve konum iznini ver."
+    },
+    {
+      "at": "first_run:location_confirmed",
+      "offset": -0.9,
+      "overlay": "2. Vakitler hazır",
+      "say": "Bulunduğun yere göre bugünün vakitleri hazır."
+    },
+    {
+      "at": "first_run:notification_settings",
+      "offset": -2.4,
+      "overlay": "3. Ezan bildirimi",
+      "say": "Bildirim ayarlarından, istediğin vakitler için ezan bildirimini aç."
+    },
+    {
+      "at": "endcard:start",
+      "offset": 0.1,
+      "overlay": "",
+      "say": "Bu kadar. Meyra ücretsiz, link profilde."
+    }
+  ]
+}

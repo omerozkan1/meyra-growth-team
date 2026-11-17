@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-14-test",
+  "mode": "test",
+  "dry_run": true,
+  "trigger": "manual",
+  "status": "partial",
+  "started_at": "2026-11-14T18:41:45.024Z",
+  "steps": [
+    {
+      "name": "Ön kontrol (testler + doğrulama)",
+      "status": "ok",
+      "detail": "tests 39/39 pass · validate 0 error(s)",
+      "duration_s": 0.8
+    },
+    {
+      "name": "Growth CEO + uzman ajanlar (Claude, headless)",
+      "status": "error",
+      "detail": "claude exit 143; no JSON output. Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: < /dev/null to skip, or wait longer.\n",
+      "duration_s": 342
+    },
+    {
+      "name": "Video render (Python + FFmpeg)",
+      "status": "ok",
+      "detail": "10 rendered · 1 up to date · 0 failed",
+      "duration_s": 111.8
+    },
+    {
+      "name": "Kalite kontrol (validator)",
+      "status": "ok",
+      "detail": "0 error(s), 1 warning(s)",
+      "duration_s": 0.1
+    },
+    {
+      "name": "Onay kuyruğu (approvals/pending)",
+      "status": "ok",
+      "detail": "0 ready · 11 blocked · 0 unchanged · 0 invalidated",
+      "duration_s": 0
+    },
+    {
+      "name": "Takip linkleri",
+      "status": "ok",
+      "detail": "Wrote tracking/links.csv (36 placements). ⚠ MEYRA_APPLE_PT not set: App Store links contain PT_REQUIRED.",
+      "duration_s": 0.1
+    }
+  ],
+  "errors": [],
+  "content_changed": [
+    "V12-hatim-takibi.md"
+  ],
+  "renders": [
+    "V01: rendered · animatic · 20.6s · missing assets: 4",
+    "V02: skipped (up to date) · animatic · 27.2s · missing assets: 4",
+    "V03: rendered · animatic · 33.6s · missing assets: 5",
+    "V04: rendered · animatic · 24.6s · missing assets: 4",
+    "V05: rendered · animatic · 26.1s · missing assets: 4",
+    "V06: rendered · animatic · 32.7s · missing assets: 5",
+    "V07: rendered · animatic · 31.8s · missing assets: 4",
+    "V08: rendered · animatic · 29.4s · missing assets: 4",
+    "V09: rendered · animatic · 20.0s · missing assets: 4",
+    "V10: rendered · animatic · 34.2s · missing assets: 4",
+    "V12: rendered · animatic · 30.7s · missing assets: 6"
+  ],
+  "validate": [
+    "⚠ content/videos/V12-hatim-takibi.md: untracked link: https://play.google.com/intl/en_us/badges/ (use npm run links)"
+  ],
+  "approvals": {
+    "packaged": [],
+    "blocked": [
+      {
+        "id": "V01",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V02",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V03",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V04",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V05",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V06",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V07",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V08",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V09",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V10",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      },
+      {
+        "id": "V12",
+        "reasons": [
+          "quality-controller verdict is MISSING (needs \"QC: PASS\" in Claims Check)"
+        ]
+      }
+    ],
+    "unchanged": [],
+    "invalidated": [],
+    "skipped": []
+  },
+  "finished_at": "2026-11-14T18:49:19.881Z"
+}

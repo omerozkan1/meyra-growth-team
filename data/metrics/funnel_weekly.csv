@@ -1,0 +1,3 @@
+# One row per week (TR storefront unless noted). Leave unknown cells empty. Sources: ASC, Play Console, Firebase, GA4.
+week_start,website_sessions,store_clicks,ios_product_page_views,ios_downloads,android_listing_visitors,android_acquisitions,first_opens,activated_users,d1_retention_pct,d7_retention_pct,ios_rating,ios_rating_count,android_rating,android_review_count,notes
+2026-11-09,,,,,,,,,,,4.4,21,4.5,46,Baseline snapshot from public store pages on 2026-11-14 (no account data)
